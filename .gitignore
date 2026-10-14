@@ -1,0 +1,8 @@
+# everything the pipeline produces: downloaded data, LLM caches, intermediate files, results and logs
+data/
+results/
+logs/
+run.log
+assets/figures/*.pdf
+__pycache__/
+*.pyc
